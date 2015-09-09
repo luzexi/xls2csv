@@ -1,0 +1,8 @@
+id,name,use_money,use_food,is_init,defense,args1,args2,args3,args4
+i,s,i,f,b,i,ai,af,as,ab
+1,house,1000,2,1,100,1;2;3,1.23;2;3.23,sdf;23e;s,true;false;true
+2,house2,123,336,1,,1;2;3,1;2.3445;3,你好;你在哪,true;false
+3,,456,222,0,130,3;2;5;;,3;2;2.5;;,我在这里啊;你在那;呢,false;true
+4,farm,100,220,0,200,2;3;,200.3;3;234.23;,df;ssd;dd;dd,
+5,house5,,22,,234,3;6;6;;;7,3;6.3;6;;;7,ss;d;d;d,true;true
+6,horse3,200,,0,333,,,2e;w;e;we,false;false;false;false
