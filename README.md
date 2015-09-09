@@ -106,10 +106,10 @@ example_building.xls
 python ./xls2csv.py example_building.xls ./data/
 
 ### NOTICE:(注意点)
-> The sheet name must start with "output_" , the lua file name will be the name behind "output_". <br />
+> The sheet name must start with "output_" , the csv file name will be the name behind "output_". <br />
 > (sheet名以"output_"开头的才会被识别转换，否则将被忽略) <br />
 
-### csv file output (生成后的Lua文件示例)
+### csv file output (生成后的csv文件示例)
 ```csv
 id,name,use_money,use_food,is_init,defense,args1,args2,args3,args4
 1,house,1000,2,1,100,1;2;3,1.23;2;3.23,sdf;23e;s,true;false;true
