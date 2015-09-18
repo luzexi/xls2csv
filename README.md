@@ -9,13 +9,16 @@ use [python xlrd](https://pypi.python.org/pypi/xlrd)
 
 Blog: http://www.luzexi.com
 
-###What's it (是什么)
+Email: jesse_luzexi@163.com
+
+###What's this. (是什么)
 This is a script to convert xls to csv.
 
 (这是个脚本用于转化xls的数据到csv格式。)
 
-### example（例子xls表格）
+### Example（例子xls表格）
 example_building.xls  
+
 <table>
     <tr>
         <td>id</td>
